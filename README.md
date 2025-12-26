@@ -40,7 +40,7 @@
         <title>Solar team</title>
         <!-- <link rel="stylesheet" href="style.css"> -->
     </head>
-    <body onload="bodyComplete()">
+    <body onload="window.location.href = 'mainpage.html'">
         <!-- <div id="grad1">
             <h1 style="font-size: 150px; display: inline; background-image: linear-gradient(rgb(38, 38, 38), rgb(255, 255, 255)); background-clip: text; color: transparent;">WE ARE SOLAR TEAM</h1>
             <img src="solar owl.png" alt="Solar Owl Image" style="width:600px;height:auto; float: right; display: inline;">
